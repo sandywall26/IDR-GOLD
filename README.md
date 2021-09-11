@@ -1,2 +1,2 @@
-# IDR-GOLD
-token idr gold
+# RAM
+RandomAccessMarket
